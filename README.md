@@ -1,3 +1,3 @@
-# SQL injection from sqlilab
+# Web 安全渗透研究
 
-系统学习SQL注入  from sql天书
+主要记录研究和分析有关web安全方面的渗透测试技术笔记
